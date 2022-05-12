@@ -17,6 +17,25 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+### Sobre
+Meu nome é Ozeias Ribeiro, trabalho com desenvolvimento Web e de aplicações Mobile.
+Minhas principais ferramentas são:
+  * NodeJS
+  * React
+  * React Native
+  * TypeORM
+  * Sequelize
+  * TypeScript
+  * PostgreSQL
+  * MongoDB
+  * Docker
+  * Ruby on Rails
+
+Desenvolvo desde o Front End (software do lado do cliente) até o Back End (software do lado do servidor),
+passando por API's (protocolos de comunicação) e usando bancos de dados SQL e NoSQL dependendo da necessidade.
+
+Me formei na Escola Estadual de Educação Profissional José Ribeiro Damasceno, no curso Técnico em Informática e atualmente faço faculdade de Ciências da Computação na Universidade Estácio de Sá, polo Itapipoca.
+
 #### Missão
 Ajudar o mundo com minhas habilidades com a tecnologia e minha cacacidade de resolver problemas da melhor maneira possível.
 Usar meu conhecimento para **abençoar** o mundo.
@@ -44,6 +63,41 @@ Um cooperador, parte de um time, membro valoroso de um grupo.
 
 #### Metas
   * Trabalhar com software em uma empresa que me dê liberdade(PJ)
+  * Contribuir com projetos que visem uma sociedade mais harmônica e mais saudável
   * Ajudar o máximo de pessoas com o meu trabalho
   * Ter uma vida equilibrada ☯️
   * Honrar meus pais e minha família
+
+### Modelo de Negócio
+Trabalho com software desde meu ensino médio, fiz pequenos projetos abertos nesse período.
+
+#### Meu trabalho
+Desenvolvo aplicações Web e Mobile, tanto Front End como Back End.
+
+Para o desenvolvimento Front End web utilizo principalmente o **ReactJS** junto à bibliotecas como React Redux, Axios e Material UI.
+Também faço bom uso do JavaScript puro, diferenciando determinadas características e peculiaridades do EcmaScript em suas diferentes versões.
+Trabalho bem com o Superset TypeScript.
+
+Para desenvolvimento Mobile utilizo o **React Native** me aproveitando de bibliotecas como React Native Elements, React Redux e Axios.
+
+Agora para o Back End utilizo uma série de tecnologias.
+A principal é o bom e velho NodeJS.
+Junto ao TypeScript, Express, Sequelize, TypeORM e BullMQ para filas.
+Também utilizo bem o Ruby on Rails para desenvolvimento de API's.
+
+Para desenvolvimento Full Stack, gosto muito de utilizar o NextJS.
+Porém dependendo da necessidade do projeto, faço o uso do Laravel ou CodeIgniter em PHP.
+Ruby on Rails também constantemente é uma escolha principalmente devido à segurança e boas práticas.
+
+Sou um apaixonado por Linux, então infraestrutura, Docker e servidores em VPS são praticamente minha casa.
+
+### Experiências
+Meus principais projetos não são de acesso público.
+
+#### [VisuPsi](https://visupsi.com.br)
+Trata-se de um sistema gerador de recibos para psicólogos.
+Desenvolvi toda a aplicação incluindo infraestrutura como o banco de dados, CI e ORMs.
+Conta com a geração desses recibos em PDF e o envio dos mesmos por e-mail aos envolvidos.
+É um sistema baseado em planos mensais.
+O usuário inicialmente tem direito à 3 recibos por mês emitidos.
+Ao efetuar a compra do plano premium, a quantidade de recibos é ilimitada.
