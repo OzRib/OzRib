@@ -17,6 +17,17 @@
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
+## Sumário
+  * [Sobre](#sobre)
+    * [Missão](#missão)
+    * [Visão](#visão)
+    * [Valores pessoais](#valores-pessoais)
+    * [Metas](#metas)
+  * [Modelo de negócio](#modelo-de-negócio)
+    * [Meu trabalho](#meu-trabalho)
+  * [Experiências](#experiências)
+    * [VisuPsi](#visupsi) 
+
 ### Sobre
 Meu nome é Ozeias Ribeiro, trabalho com desenvolvimento Web e de aplicações Mobile.
 Minhas principais ferramentas são:
@@ -70,6 +81,7 @@ Um cooperador, parte de um time, membro valoroso de um grupo.
 
 ### Modelo de Negócio
 Trabalho com software desde meu ensino médio, fiz pequenos projetos abertos nesse período.
+Aceito somente contratações PJ ou derivados(sem CLT).
 
 #### Meu trabalho
 Desenvolvo aplicações Web e Mobile, tanto Front End como Back End.
@@ -95,8 +107,11 @@ Sou um apaixonado por Linux, então infraestrutura, Docker e servidores em VPS s
 Meus principais projetos não são de acesso público.
 
 #### [VisuPsi](https://visupsi.com.br)
+![VisuPsi](https://user-images.githubusercontent.com/73843439/168165115-ddeebf41-b373-4554-a893-247cf6d29d0d.png)
+
 Trata-se de um sistema gerador de recibos para psicólogos.
-Desenvolvi toda a aplicação incluindo infraestrutura como o banco de dados, CI e ORMs.
+Desenvolvi toda a aplicação no domínio [visupsi.com.br](https://visupsi.com.br), o núcleo do projeto incluindo infraestrutura como o banco de dados, CI e o load balancer(Apache, Nginx, etc).
+Também configurei os subdomínios, certificado SSL e instalei o WordPress para a divulgação do projeto.
 Conta com a geração desses recibos em PDF e o envio dos mesmos por e-mail aos envolvidos.
 É um sistema baseado em planos mensais.
 O usuário inicialmente tem direito à 3 recibos por mês emitidos.
