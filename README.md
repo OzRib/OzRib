@@ -79,7 +79,6 @@ Um cooperador, parte de um time, membro valoroso de um grupo.
   * No pain no gain
 
 #### Metas
-  * Trabalhar com software em uma empresa que me dê liberdade(PJ)
   * Contribuir com projetos que visem uma sociedade mais harmônica e mais saudável
   * Ajudar o máximo de pessoas com o meu trabalho
   * Ter uma vida equilibrada ☯️
@@ -87,7 +86,6 @@ Um cooperador, parte de um time, membro valoroso de um grupo.
 
 ### Modelo de Negócio
 Trabalho com software desde meu ensino médio, fiz pequenos projetos abertos nesse período.
-Aceito somente contratações PJ ou derivados(sem CLT).
 
 #### Meu trabalho
 Desenvolvo aplicações Web e Mobile, tanto Front End como Back End.
