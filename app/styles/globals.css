@@ -1,0 +1,44 @@
+@import './animations.css';
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Meslo LGS';
+  src: local('Meslo LGS'), url('./fonts/MesloLGS NF Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Meslo LGS';
+  src: local('Meslo LGS'), url('./fonts/MesloLGS NF Bold.ttf');
+  font-weight: bold;
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: 'Meslo LGS';
+  src: local('Meslo LGS'), url('./fonts/MesloLGS NF Italic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Meslo LGS';
+  src: local('Meslo LGS'), url('./fonts/MesloLGS NF Bold Italic.ttf');
+  font-style: italic;
+  font-weight: bold;
+  font-weight: bolder;
+}

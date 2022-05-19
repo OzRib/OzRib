@@ -1,0 +1,11 @@
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url('https://wallup.net/wp-content/uploads/2015/12/91789-night-landscape.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}

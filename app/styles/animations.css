@@ -1,0 +1,21 @@
+@keyframes typeWriter {
+  from {
+    width: 0;
+  }
+
+  to {
+    width: 100%;
+  }
+}
+
+@keyframes blinkTextCursor {
+  from {
+    border-right-color: #fff;
+    border-right-width: 1px;
+    border-right-style: solid;
+  }
+
+  to {
+    border-right-color: transparent;
+  }
+}

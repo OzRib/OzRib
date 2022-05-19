@@ -1,0 +1,15 @@
+.title {
+  min-width: 0;
+  width: 0;
+  max-width: 202px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.subtitle {
+  min-width: 0;
+  width: 0;
+  max-width: 146px;
+  overflow: hidden;
+  white-space: nowrap;
+}
