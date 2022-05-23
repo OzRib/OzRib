@@ -8,6 +8,7 @@ import Paragraph from '@components/globals/Paragraph'
 import StandardPage from '@components/globals/StandardPage'
 import Avatar from '@components/Home/Avatar'
 import Header from '@components/Home/Header'
+import SocialNetworks from '@components/Home/SocialNetworks'
 import HeaderMessage from '@components/Home/HeaderMessage'
 import Body from '@components/Home/Body'
 import Column from '@components/Home/Column'
@@ -24,6 +25,7 @@ const Home: CustomNextPage = () => {
       </Head>
       <Header>
         <Avatar />
+        <SocialNetworks />
         <HeaderMessage />
       </Header>
       <Divider />
