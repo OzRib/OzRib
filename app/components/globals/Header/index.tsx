@@ -39,6 +39,12 @@ export default function Header({ children, sx, headerHeight, ...props }: HeaderP
         <Button color="secondary">
           Experiências
         </Button>
+        <Button color="secondary">
+          Projetos
+        </Button>
+        <Button color="secondary">
+          Contato
+        </Button>
       </Box>
     </Box>
   )
